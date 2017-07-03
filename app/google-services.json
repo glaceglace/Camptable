@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "373280499744",
+    "firebase_url": "https://camptable-24f11.firebaseio.com",
+    "project_id": "camptable-24f11",
+    "storage_bucket": "camptable-24f11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373280499744:android:130ed601c546d449",
+        "android_client_info": {
+          "package_name": "com.example.jingyuan.camptableproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373280499744-npdpnrgrq2136ipigsmq7tvri4l9r8s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiUutHoP8GdaL-XFYA_Uzl_IRgz-8tPO0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
